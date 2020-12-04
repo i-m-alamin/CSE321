@@ -1,0 +1,23 @@
+*** Commands for Task 1 ***
+touch excalibur.txt
+chmod a+rwx excalibur.txt
+chmod go-w excalibur.txt
+chmod o-r excalibur.txt
+mkdir mydirectory
+cp excalibur.txt mydirectory
+rm excalibur.txt
+
+*** Commands for Task 2 ***
+rm -r directory
+
+*** Commands for Task 3 ***
+find . -name "*.txt"
+
+*** Commands for Task 4 ***
+grep action animelist1.txt animelist2.txt animelist3.txt
+
+*** Commands for Task 5 ***
+ head -18 excalibur.txt | tail +12
+
+*** Commands for Task 6 ***
+ls -la
